@@ -2,4 +2,4 @@
 
 echo "Ciao a t utti!"
 
-echo "Ciao Ciao" > file.tx
+echo "Ciao Ciao" > file.txt
